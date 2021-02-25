@@ -1,0 +1,5 @@
+cat: 고양이
+bicycle: 자전거
+fruit: 과일
+church: 교회
+tample: 절
